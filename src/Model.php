@@ -1,8 +1,10 @@
 <?php declare(strict_types=1);
 
+namespace App;
+
 final class Model
 {
-    private function __construct()
+    public function __construct()
     {
     }
 }
